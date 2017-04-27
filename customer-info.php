@@ -200,6 +200,3 @@ class customerInfo {
 		<?php
     }
 }
-
-$plugin = new customerInfo();
-$plugin->init();
